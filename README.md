@@ -1,2 +1,3 @@
-# qsha-dev
-My personal homepage + portal to my projects
+# qsha.dev
+
+Home directory for my projects.
