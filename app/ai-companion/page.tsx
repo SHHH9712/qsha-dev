@@ -7,7 +7,7 @@ export default function RedirectPage() {
   const router = useRouter();
 
   useEffect(() => {
-    router.push("http://74.50.96.205:3001/");
+    router.push("http://74.50.96.205:3002/");
   }, [router]);
 
   return (
