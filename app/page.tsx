@@ -14,6 +14,11 @@ export default function Home() {
       description: "ai companion",
       url: "/ai-companion",
     },
+    {
+      name: "resume",
+      description: "resume",
+      url: "/resume",
+    },
   ];
 
   return (
